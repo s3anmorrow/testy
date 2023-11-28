@@ -1,0 +1,28 @@
+/*!**********************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./css/styles.css ***!
+  \**********************************************************************************************/
+@import url(https://fonts.googleapis.com/css?family=Arvo);
+/*!**************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./css/styles.css (1) ***!
+  \**************************************************************************************************/
+body {
+  background-color: #035074;
+  color: #FFFFFF;
+  font-family: arial, verdana, sans-serif;
+  font-size: 1rem;
+  padding: 10px; 
+}
+
+select {
+  font-family:arial,verdana,sans-serif;
+  font-size:1rem;
+  color:#035074;
+  border:2px solid #FFFFFF;
+  display:inline-block;
+  vertical-align:middle;  
+  padding:7px 2px 5px 10px;
+  height:2.5rem;
+  width:250px;
+  border-radius: 5px;
+  background:#FFFFFF;
+}
